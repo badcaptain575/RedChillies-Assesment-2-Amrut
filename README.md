@@ -8,24 +8,24 @@ Advertising images for **Auralis Nova**, a fictional wireless headphone from the
 
 The brief asks for one cinematic ad image where the headphones are the main subject and there is empty space for text. This repo has **three colour versions**. Rose Gold is the main submission. Blue and Black are alternatives.
 
-Each colour has its own folder inside `Assesment 2 Outputs`, and each folder holds three files: the 1280 x 720 image, the 4x enlarged image (5120 x 2880), and a text file with the prompt.
+Each colour has its own folder, and each folder holds three files: the 1280 x 720 image, the 4x enlarged image (5120 x 2880), and a text file with the prompt.
 
 | Colour | Folder | Role |
 |---|---|---|
-| Rose Gold | `Assesment 2 Outputs/Auralis Nova Rosegold` | **Main submission** |
-| Blue | `Assesment 2 Outputs/Auralis Nova Blue` | Alternative |
-| Black | `Assesment 2 Outputs/Auralis Nova Black` | Alternative |
+| Rose Gold | `Auralis Nova Rosegold` | **Main submission** |
+| Blue | `Auralis Nova Blue` | **Main submission** |
+| Black | `Auralis Nova Black` | **Main submission** |
 
 None of the images contain text, logos or watermarks. The brand name is not in the prompts on purpose, because AI image models usually spell it wrong. The empty space is there so the brand name and copy can be added afterwards.
 
 ```text
 README.md
-Assesment 2 Outputs/
+
 ├── Auralis Nova Rosegold/   (720 image, upscaled image, prompt .txt)
 ├── Auralis Nova Blue/       (720 image, upscaled image, prompt .txt)
 └── Auralis Nova Black/      (720 image, upscaled image, prompt .txt)
 workflow/
-└── auralis_nova_flux_dev.json
+└── Redchilles Assesment 2 - (Amrut).json
 ```
 
 ---
